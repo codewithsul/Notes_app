@@ -1,0 +1,14 @@
+{
+  "resourceName": "s3bucket23",
+  "policyUUID": "6d046e40",
+  "bucketName": "notesbucket23",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
